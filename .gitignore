@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CLion / CMake
 .idea/
 cmake-build-*/
@@ -14,3 +15,21 @@ out/
 # OS
 .DS_Store
 Thumbs.db
+=======
+# CLion / CMake
+.idea/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+out/
+*.o
+*.obj
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db
+>>>>>>> 46b182d913bb4330d78572cd1e6360d79c06fc5a
